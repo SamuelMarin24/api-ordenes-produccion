@@ -1,0 +1,21 @@
+# Credenciales: NUNCA subir
+.env
+
+# Datos reales: el respaldo contiene informacion de clientes
+respaldo_ordenes.json
+*.json
+!*.example.json
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+
+# Logs
+*.log
