@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pyodbc
+python-dotenv
+pywin32; sys_platform == "win32"
